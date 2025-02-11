@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+.recipe-title {
+    color: #F25C54;
+}
+
+.recipe-subtitle {
+    color: #F27059;
+}
+
+.recipe-description {
+    width: 600px;
+    font-size: 18px;
+}
+
+.ingredients-heading, .steps-heading {
+    color: #F79D65;
+}
+
+.ingredients-list {
+    line-height: 2;
+    list-style-type: "🍳";
+}
+
+.steps-list {
+    list-style-type: "🍳";
+    line-height: 1.4;
+}
+
+.steps-list li {
+    margin-bottom: 12px;
+    width: 600px;
+}
+
+.return-main-page {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.return-main-page a {
+    color: #AD2831;
+    text-decoration: none;
+}

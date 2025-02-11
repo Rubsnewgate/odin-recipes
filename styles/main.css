@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.title {
+    color: #F25C54;
+}
+
+.subtitle {
+    color: #F27059;
+}
+
+.links-list {
+    line-height: 2;
+    list-style-type: "🍳";
+}
+
+.recipe-link a {
+    color: #000;
+    text-decoration: none;
+}

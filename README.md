@@ -11,8 +11,9 @@ This project was built for educational purposes to practice HTML and web develop
 ---
 
 ## Technologies used
-- HTML5
----
+- HTML
+- CSS
+
 ### Features
 - Clean and simple user interface.
 - Easy navigation between recipes.
@@ -25,5 +26,5 @@ To view this project locally:
 `git clone https://github.com/your-username/odin-recipes.git  `
 
 2. Open the index.html file in your browser
----
-**Current version**: 1.0.0
+
+**Current version**: 1.1.0
