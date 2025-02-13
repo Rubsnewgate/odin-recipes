@@ -1,9 +1,31 @@
 body {
+    width: 100%;
+    margin: 0;
     font-family: sans-serif;
+    background: #F7F7F2;
+}
+
+.container {
+    width: fit-content;
+    margin: 20px auto;
+    padding: 8px 24px;
+    background: #fff;
+    border-radius: 8px;
 }
 
 .recipe-title {
+    text-align: center;
     color: #F25C54;
+}
+
+.recipe-image > img {
+    border-radius: 8px;
+}
+
+.recipe-image > figcaption {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #4F6367;
 }
 
 .recipe-subtitle {
@@ -41,5 +63,8 @@ body {
 
 .return-main-page a {
     color: #AD2831;
+}
+
+.return-main-page a:hover {
     text-decoration: none;
 }

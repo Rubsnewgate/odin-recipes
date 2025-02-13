@@ -27,4 +27,4 @@ To view this project locally:
 
 2. Open the index.html file in your browser
 
-**Current version**: 1.1.0
+**Current version**: 1.2.0
